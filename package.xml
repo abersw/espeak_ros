@@ -1,13 +1,14 @@
 <?xml version="1.0"?>
 <package>
   <name>espeak_ros</name>
-  <version>0.0.1</version>
+  <version>1.0.0</version>
   <description>The espeak ROS package wrapper</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="muhrix@gmail.com">Murilo FM</maintainer>
+  <maintainer email="tof7@aber.ac.uk">Tomos Fearn</maintainer>
+  <!--Bits of the package come from Murilo FM-->
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
