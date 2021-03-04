@@ -1,0 +1,5 @@
+<launch>
+<!--add valgrind -v to launch prefix-->
+<!--espeak node for wheelchair speaker-->
+<node pkg="espeak_ros" name="espeak_node" type="espeak_node" output="screen" launch-prefix=""></node>
+</launch>
